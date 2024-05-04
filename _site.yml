@@ -1,0 +1,17 @@
+name: "My new website"
+output_dir: 'docs'
+output:
+  html_document:
+    theme: cerulean
+    highlight: zenburn
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
+navbar:
+  title: "title"
+  left:
+    - text: "Menu"
+      href: index.html
+    - text: "Participant Information"
+      href: info.html
