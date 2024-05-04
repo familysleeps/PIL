@@ -1,5 +1,5 @@
 ---
-title:  "FamilySleeps Participant Information"
+#title:  "FamilySleeps Participant Information"
 output: html_document
 ---
 
