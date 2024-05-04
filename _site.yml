@@ -11,7 +11,15 @@ output:
 navbar:
   title: "title"
   left:
-    - text: "Menu"
+    - text: "Home"
       href: index.html
     - text: "Participant Information"
       href: info.html
+    - text: "Exclusion Criteria"
+      href: exclusion.html
+    - text: "Glossary"
+      href: glossary.html
+    - text: "Sample Consent Form"
+      href: consent.html
+    - text: "Contacts"
+      href: contacts.html
