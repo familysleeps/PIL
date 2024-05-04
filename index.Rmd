@@ -1,7 +1,5 @@
 ---
-title: "index"
-author: "Cathy Wyse"
-date: "2024-05-03"
+title:  "FamilySleeps Participant Information"
 output: html_document
 ---
 
@@ -9,22 +7,28 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+```{r logo, echo=FALSE}
+knitr::include_graphics("images/logo_questionnaire_hi.png")
 ```
 
-## Including Plots
 
-You can also embed plots, for example:
+To the family, 
+ 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+Thank you for your interest in our research study “FamilySleeps: Investigation of circadian rhythms and sleep in families: a focus on autism” led by Dr Lorna Lopez. 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+In FamilySleeps we will discover more about sleep and its genetic links with autism.  We will use state-of-the-art technology to track sleep over one year in families with and without autistic children.  Sleep disruption is a big problem for families with autistic children and this research aims to find ways to improve sleep and quality of life for families with autistic children.  Your participation is really important to help us to do that, and I hope that you will consider joining FamilySleeps.
+
+
+If you are interested in learning more about the research project, please read the information in the participant information pack and if you have any questions at all about the study, please do not hesitate to get in touch with us by email (familysleeps@mu.ie). 
+  
+With many thanks for your interest in the research. 
+
+
+Yours sincerely, 
+  
+ 
+Associate Professor
+Department of Biology
+Maynooth University
+
