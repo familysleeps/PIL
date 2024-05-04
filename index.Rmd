@@ -18,6 +18,7 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 ## FamilySleeps: Investigation of circadian rhythms and sleep in families: a focus on autism
 
 &nbsp;  
+
 ### To the family, 
  
 
@@ -33,6 +34,10 @@ With many thanks for your interest in the research.
 
 Yours sincerely, 
   
+```{r sign, echo=FALSE}
+knitr::include_graphics("images/signLL.png")
+```
+
  
 Associate Professor
 Department of Biology
