@@ -12,7 +12,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Participant Information"
-      href: info.html
+      href: PIL.html
     - text: "Exclusion Criteria"
       href: exclusion.html
     - text: "Glossary"
@@ -21,3 +21,4 @@ navbar:
       href: consent.html
     - text: "Contacts"
       href: contacts.html
+ 

@@ -4,7 +4,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-```{r logo, echo=FALSE}
+```{r logo,fig.align='center', echo=FALSE}
 knitr::include_graphics("images/logo_questionnaire_hi.png")
 ```
 
@@ -230,4 +230,24 @@ We will not contact you again after all data, equipment and sensors have been re
 &nbsp;
 
 ####  Who has approved this study?  
-This study has been reviewed and received ethical approval from the Biomedical and Life Sciences Research Ethics Sub-Committee (BSRESC) of Maynooth University on XXXXX. If you would like more information about the ethics committee’s approval of this study, please contact research.ethics@mu.ie. 
+This study has been reviewed and received ethical approval from the Biomedical and Life Sciences Research Ethics Sub-Committee (BSRESC) of Maynooth University on XXXXX. If you would like more information about the ethics committee’s approval of this study, please contact research.ethics@mu.ie
+
+&nbsp;
+
+####  Where can I get further information? 
+You can get further information from our research team:
+
+Family Genomics Research Team, Department of Biology, Maynooth University, Co. Kildare (familysleeps@mu.ie)
+
+
+
+```{r team,echo=FALSE}
+knitr::include_graphics("images/team.png")
+```
+
+<br><br>
+
+The data processors for this study are the Family Genomics Research Team in Maynooth University.  
+The Data Controller for this research project is Maynooth University, Maynooth, Co. Kildare. Maynooth University Data Protection officer can be contacted at Humanity House, Room 17, who can be contacted at dataprotection@mu.ie. Maynooth University Data Privacy policies can be found at https://www.maynoothuniversity.ie/data-protection. 
+
+
