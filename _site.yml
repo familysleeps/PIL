@@ -4,10 +4,8 @@ output:
   html_document:
     theme: cerulean
     highlight: zenburn
-    toc: true
-    toc_depth: 2
-    toc_float:
-      collapsed: false
+    toc: false  # Disable Table of Contents
+    
 navbar:
   title: "title"
   left:

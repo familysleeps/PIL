@@ -9,8 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 knitr::include_graphics("images/logo_questionnaire_hi.png")
 ```
 
-&nbsp; 
-&nbsp; 
+<br><br> <!-- Add two line breaks -->
 
 ##  Sample Consent Form for Parents or Caregiver of a Non-Autistic Child 
 
