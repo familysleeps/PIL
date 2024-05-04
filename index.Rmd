@@ -8,8 +8,17 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+```{r logo, echo=FALSE}
+knitr::include_graphics("images/logo_questionnaire_hi.png")
+```
 
-To the family, 
+
+&nbsp;  
+
+## FamilySleeps: Investigation of circadian rhythms and sleep in families: a focus on autism
+
+&nbsp;  
+### To the family, 
  
 
 Thank you for your interest in our research study “FamilySleeps: Investigation of circadian rhythms and sleep in families: a focus on autism” led by Dr Lorna Lopez. 
