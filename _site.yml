@@ -7,7 +7,6 @@ output:
     toc: false  # Disable Table of Contents
     
 navbar:
-  title: "title"
   left:
     - text: "Welcome to FamilySleeps"
       href: index.html
