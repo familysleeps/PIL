@@ -11,11 +11,7 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 
 <br><br> <!-- Add two line breaks -->
 
-## FamilySleeps: Investigation of Circadian Rhythms and Sleep in Families: A Focus on Autism
-
-&nbsp;  
-
-###  Glossary 
+##  Glossary 
 
 <br><br> <!-- Add two line breaks -->
 

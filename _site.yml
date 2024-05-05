@@ -9,16 +9,17 @@ output:
 navbar:
   title: "title"
   left:
-    - text: "Home"
+    - text: "Welcome to FamilySleeps"
       href: index.html
     - text: "Participant Information"
       href: PIL.html
-    - text: "Exclusion Criteria"
-      href: exclusion.html
     - text: "Glossary"
       href: glossary.html
+    - text: "Inclusion Critera"
+      href: exclusion_NT.html
+    - text: "Inclusion Criteria - Autistic Child"
+      href: exclusion_ASD.html
     - text: "Sample Consent Form"
       href: consent.html
     - text: "Contacts"
       href: contacts.html
- 
