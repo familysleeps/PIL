@@ -12,6 +12,8 @@ navbar:
       href: index.html
     - text: "Participant Information"
       href: PIL.html
+    - text: "Participant Information - Child"
+      href: PILkids.html
     - text: "Glossary"
       href: glossary.html
     - text: "Inclusion Critera"
