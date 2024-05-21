@@ -20,5 +20,7 @@ navbar:
       href: exclusion_ASD.html
     - text: "Sample Consent Form"
       href: consent.html
+    - text: "Sample Assent Form"
+      href: assent.html
     - text: "Contacts"
       href: contacts.html

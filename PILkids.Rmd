@@ -1,0 +1,119 @@
+
+---
+output: 
+  html_document:
+    css: styles.css
+---
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+```{r logo,fig.align='center', echo=FALSE}
+knitr::include_graphics("images/logo_questionnaire_hi.png")
+```
+
+<br><br> <!-- Add two line breaks -->
+
+#  Research Study Information Sheet for Children aged 6-8 years
+&nbsp;
+
+Thank you for reading about our study. There is lots of information in this sheet, please read it carefully and talk about it with your family. If you do not understand something or if you have any questions, please ask your parents to call or email us.   
+
+Research team: The person in charge of the research study is Dr Lorna Lopez who teaches and does research in Maynooth University. 
+
+&nbsp;
+
+## What are we trying to do?  
+Research means finding out new things. We want to find out why some people have problems with their sleep. In this study we will measure sleep in different families to try and find out what might cause these sleep problems.  
+We will use sensors to look at sleep in families. In this study a sensor is something that can tell if you are moving or sleeping. You will keep one of them beside your bed and you will wear one of them on your wrist, like a watch.  
+We will also ask your parents some questions about your sleep, and we will look at some of your spit. Your spit can tell us a lot about sleep problems because it changes around bedtime, and it contains your DNA. DNA is made up of building blocks that make us who we are, and nobody has the exact same building blocks as each other. We will see if some people’s building blocks make them more likely to have sleep problems.  
+
+&nbsp;
+
+## Why am I being asked to take part?  
+You are being asked to take part because you are a child that is happy to help us with our research to try to find new ways of understanding sleep in children and their families.  
+
+&nbsp;
+
+## Do I have to take part?  
+You do not have to take part in this study if you don’t want to. You can change your mind about taking part in this study at any time, even after the study has begun.  You do not have to tell us why you don’t want to take part or why you have changed your mind. If you want to stop taking part, you can tell your parent or guardian and they can tell us.  
+
+&nbsp;
+
+## What will happen to me if I take part?  
+After you have read this information sheet, we will talk with your parent or guardian over the phone. You will be able to ask your parent or guardian to ask us your questions. 
+
+We will give your parents a sensor to put in your bedroom for one year. It will tell us about your sleep and how hot it is, what the air is like and how much light there is in your bedroom. It doesn’t take pictures or tell us anything that you say. It can’t harm you in any way.  
+
+<br><br> <!-- Add two line breaks -->
+
+
+```{r somnofy, fig.align='center',echo=FALSE}
+knitr::include_graphics("images/somnofy.png")
+```
+
+<br><br> <!-- Add two line breaks -->
+
+
+We will give you another sensor that looks like a watch to wear for two weeks at four different times during the study. You will wear the watch for 8 weeks in total over the year that you are in the study.  This tells us about your sleep and movement during the day and night. The watch has no screen, and it will not tell you anything. This watch will be easy to take off so you can take it off whenever you need to, or you can ask your parents to take it off for you.  
+
+<br><br> <!-- Add two line breaks -->
+
+```{r watch, fig.align='center',echo=FALSE}
+knitr::include_graphics("images/r.png")
+```
+<br><br> <!-- Add two line breaks -->
+
+We will also ask your parents some questions about how well you sleep and how much you like getting up in the morning and going to bed.  
+We will ask you to give us one sample of your spit during the study. This will be used to look at your DNA.  
+
+&nbsp;
+
+## Will I get anything for taking part?  
+To say thank you we will give you some stickers, a booklet and a certificate. 
+We are very thankful to the children that help us with our research, they are helping us to find out more about sleep. We hope that this research will help to find new treatments for children that have problems sleeping at night.  
+
+&nbsp;
+
+## Are there any risks if I take part in the study?  
+We work very hard to make sure that all parts of the study are safe. We will check with your parents that everything is safe for you to do.
+
+&nbsp;
+
+## What personal information about me will be used?  
+If it’s okay with you, we will ask your parents/guardians for your name, date of birth, where you live, and whether you are male or female. We also collect information about your movement and sleep from the sensors and your DNA from your spit. 
+
+&nbsp;
+
+## What will happen to my personal information?  
+We will store your name, date of birth, where you live, and whether you are male or female during the study. Nobody outside of our team will know your name or where you live. Except for your date of birth and whether you are male or female. All of this information will be deleted at the end of the study, and we won’t have it anymore. 
+
+&nbsp;
+
+## Who will see my personal information as part of this study?  
+Only the team in Maynooth University will be able to see your name, address, and your parent’s contact information.
+Your sleep and bedroom information, age and whether you are male, or female will be sent to a company called VitalThings. They will use this information to understand your sleep at night-time. They will not share this information with anyone except for our research team in Maynooth University. Another company (TBD) will look at your DNA and tell the team what they find out. Whatever they find out will not be shared with anyone outside of the team in Maynooth University. 
+ 
+&nbsp;
+
+## Will my personal information be used by anyone else?  
+No one outside of the research team at Maynooth University will know your name, where you live or your parent’s contact information.
+A company called VitalThings will use your sensor information, age and whether you are male or female to help us to understand your sleep and movement. They will not give this to anyone outside of the research team in Maynooth University. We will keep the sensor, DNA and spit information, but we will not be able to tell who this came from once we delete your name and address. Your sensor, DNA or questionnaire information could be used in different studies to find out more about sleep. 
+
+&nbsp;
+
+## Will it cost me anything if I take part?  
+No, taking part in this study won’t cost you or your family anything. You will not get any money for taking part in this study.  
+ 
+&nbsp;
+
+## What do I do if I want to know more?  
+If you want to know more or have any questions your parents can ask the research team at Maynooth University at any time.
+
+
+
+
