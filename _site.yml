@@ -16,6 +16,8 @@ navbar:
       href: PILkids.html
     - text: "Glossary"
       href: glossary.html
+    - text: "Sensors"
+      href: sensors.html
     - text: "Inclusion Critera"
       href: exclusion_NT.html
     - text: "Inclusion Criteria - Autistic Child"
