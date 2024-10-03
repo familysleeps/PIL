@@ -52,7 +52,7 @@ We will give you a research kit that includes written instructions and all mater
 
 You will be asked to do the following tasks:
 
-#. Put a wrist-worn activity monitor on each parent and two children (this will be worn day and night) and supervise wear for 2 weeks every 3 months, so 4 times during the study.  We will ask you to remove your child’s wrist-worn activity monitor before coming into contact with water, such as when bathing or swimming, and put it back on as soon as possible afterwards. This will be easy to remove and replace as necessary. The device will monitor movement continuously throughout the day and night. The device will only monitor movement. Below is an example of the wrist-worn activity monitor each family member will wear for 2 weeks in months 3, 6, 9 and 12.
+1. Put a wrist-worn activity monitor on each parent and two children (this will be worn day and night) and supervise wear for 2 weeks every 3 months, so 4 times during the study.  We will ask you to remove your child’s wrist-worn activity monitor before coming into contact with water, such as when bathing or swimming, and put it back on as soon as possible afterwards. This will be easy to remove and replace as necessary. The device will monitor movement continuously throughout the day and night. The device will only monitor movement. Below is an example of the wrist-worn activity monitor each family member will wear for 2 weeks in months 3, 6, 9 and 12.
 
 
 ```{r watch, fig.align='center',echo=FALSE}
@@ -62,7 +62,7 @@ knitr::include_graphics("images/r.png")
 <br><br> <!-- Add two line breaks -->
 
 
-#.	Put sensors that monitor movement in your children’s bedroom(s) for 12 months. Below is an example of the sensor that will be placed in each child’s bedroom. If you require assistance with the watch or the installation of the bedside sensor at any stage, you can contact the team at familysleeps@mu.ie or 087 1998589. This sensor will also collect information about your child’s sleep environment, e.g., light, air quality and temperature, noise.  If you and your child go on holiday or stay somewhere else overnight, we will ask you to bring their bedside sensor, if possible.
+2. Put sensors that monitor movement in your children’s bedroom(s) for 12 months. A parent or caregiver will be asked to fit this sensor in the child’s bedroom. Below is an example of the sensor that will be placed in each child’s bedroom. If you require assistance with the watch or the installation of the bedside sensor at any stage, you can contact the team at familysleeps@mu.ie or 087 1998589. This sensor will also collect information about your child’s sleep environment, e.g., light, air quality and temperature, noise.  If you and your child go on holiday or stay somewhere else overnight, we will ask you to bring their bedside sensor, if possible.
 
 
 ```{r somnofy, fig.align='center',echo=FALSE}
