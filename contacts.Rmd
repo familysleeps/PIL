@@ -17,42 +17,86 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 &nbsp;  
 
 #### Research Team:  
-Dr Lorna M. Lopez, Maynooth University (Lead Investigator)  
+Prof Lorna M. Lopez, Maynooth University (Lead Investigator) 
+
 Dr Cathy Wyse, Maynooth University (Researcher)  
-Ms Carina Michelle Kaufmann, Maynooth University (Research Assistant)  
-Dr Laura Fahey, Maynooth University (Researcher)  
-Mr Aung Myat Phyo, Maynooth University (Researcher)  
+
+Dr Mailton Vasconcelos, Maynooth University (Researcher)
+
+Ms Angeline Anjani, Maynooth University (Research Assistant)
+
+Mr Aung Myat Phyo, Maynooth University (Researcher) 
 
 &nbsp;  
 
 #### Study Contact/Advisor 	
-Family Genomics Research Team,
-Department of Biology,
-Callan Building,  
-Maynooth University,
-Maynooth,
-Co. Kildare
-&nbsp;  
-
-familysleeps@mu.ie
-087 199 8589
-https://www.familygenomics.maynoothuniversity.ie/
+Address:	Family Genomics Research Team,  
+Department of Biology, 
+Callan Building 
+Maynooth University,  
+Maynooth 
+Co. Kildare  
+ 
+Email: 		family.sleeps@mu.ie 
+Phone:	086 164 5998  
+Web:		https://www.familygenomics.maynoothuniversity.ie/ 
 
 &nbsp;  
 
 #### Maynooth University Ethics Committee
-Email		research.ethics@mu.ie 
-Phone		(01) 708 6019
+Email:		research.ethics@mu.ie 
+Phone:	(01) 708 6019
  
  
 &nbsp;  
 
 
-The data processors for this study are the Family Genomics Research Team in Maynooth University.  
-The Data Controller for this research project is Maynooth University, Maynooth, Co. Kildare.
-&nbsp;  
-Maynooth University Data Protection officer can be contacted at Humanity House, Room 17, dataprotection@mu.ie  
-Maynooth University Data Privacy policies can be found at https://www.maynoothuniversity.ie/data-protection
+#### Data Processors
+Maynooth University All data
+
+Maynooth University, Maynooth, Co. Kildare. Maynooth University 
+Data Protection officer can be contacted at 17 Rye Hall Extension, North Campus, who can be contacted at dataprotection@mu.ie.  
+Maynooth University Data Privacy policies can be found at https://www.maynoothuniversity.ie/data-protection.
+
+VitalThings (Somnofy) Sleep sensor data 
+
+VitalThings stores their data in Norway, which is an EEA member state and therefore follows GDPR regulations. 
+While VitalThings is a Data Processor, meaning they have access to your data, we would like to remind you that the data they have access to is stored in pseudonymised form, meaning they won’t be able to identify anyone based on the information they have access to. If you contact them, you will provide them with personal details that they otherwise would not have access to. However, as they are a data processor, it is a GDPR regulation to provide the contact details. 
+VitalThings’ privacy policy statement can be found here: https://vitalthings.com/en/personvernerklaering/  
+If you have any concerns or enquiries about how VitalThings processes your data or you wish to exercise your rights, you can contact them at: 
+Phone: +47 402 05 300 
+E-mail: mail@vitalthings.com 
+Visiting address: Dybdahls veg 3-5, 7051 Trondheim, Norway 
+
+Onlinesurveys.ac.uk Questionnaire and Consent Form Data
+
+OnlineSurveys stores the data in the Republic of Ireland. 
+While OnlineSurveys is a Data Processor, meaning they have access to your data, we would like to remind you that the data they have access to is stored in pseudonymised form, meaning they won’t be able to identify anyone based on the information they have access to. If you contact them, you will provide them with personal details that they otherwise would not have access to. However, as they are a data processor, it is a GDPR regulation to provide the contact details. 
+OnlineSurveys’ privacy notice can be found here: https://www.jisc.ac.uk/website/privacy-notice  
+If you have any concerns or enquiries about how VitalThings processes your data or you wish to exercise your rights, you can contact them at: 
+E-mail: dataprotection@jisc.ac.uk  
+Registered Office: 4 Portwall Lane, Bristol, BS1 6NB, United Kingdom 
+
+DNA extraction service provider (TBD) 
+DNA analysis service provider (TBD)
+
+&nbsp; 
+
+#### Data Controllers
+Maynooth University
+
+Maynooth University, Maynooth, Co. Kildare. Maynooth University Data Protection officer can be contacted at 17 Rye Hall Extension, North Campus, Maynooth 
+University, who can be contacted at dataprotection@mu.ie. Maynooth University Data Privacy policies can be found at https://www.maynoothuniversity.ie/data-protection. 
+
+If you have concerns or questions about any aspect of the study or if you wish to make a complaint, please speak to the principal investigator of the study, Prof Lorna Lopez, who will do her best to assist you. If she is unable to answer your question, please contact the Secretary of the Maynooth University Ethics Committee at research.ethics@mu.ie or +353 (0)1 708 6019. Please be assured that your concerns will be dealt with in a sensitive manner.  
+ 
+Under GDPR, If you are unhappy with the outcome of your complaint or how your request to exercise your rights in relation to your personal data has been processed by MU, you also have the right to make a complaint to the Data Protection Commission directly. 
+ 
+**Dublin Office**: Data Protection Commission, 6 Pembroke Row, Dublin 2, D02 X963. 
+**Portarlington Office**: Data Protection Commission, Canal House, Station Road, Portarlington, R32 AP23, Co. Laois. 
+
+**Email**: info@dataprotection.ie Website: www.dataprotection.ie 
+**Phone**: 01 7650100 / 1800437 737 
 
 
 
