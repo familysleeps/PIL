@@ -35,6 +35,6 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 | Term        | Definition           |
 | ------------- |:-------------:| -----:|
 | Circadian rhythm | A circadian rhythm is your body's internal clock that helps regulate when you feel awake and when you feel sleepy. It's a natural cycle that repeats approximately every 24 hours.|   
-| DNA             | DNA (deoxyribonucleic acid) is an instruction manual that contains all the information needed for living organisms to grow, develop, and function. It's found in the cells of every living thing, from plants to animals to humans|
-| Genomics        |  A gene is an instruction manual inside your body's cells. It's made up of a special code, like the letters in a book. This code contains the information that determines many things about you, such as your eye color, height, and how your body works.|
-| Melatonin       |    A natural hormone in your body that helps regulate your sleep-wake cycle|
+| DNA             | DNA (deoxyribonucleic acid) is an instruction manual that contains all the information needed for living organisms to grow, develop, and function. It's found in the cells of every living thing, from plants to animals to humans. |
+| Gene       | A gene is a small section of your DNA, that’s made up of a special code, like the letters in a book. This code contains the information that determines many things about you, such as your eye colour, height, and how your body works.  |
+| Genomics     |  Genomics is a field of biology focused on studying all the DNA of an organism — that is, its genome. Such work includes identifying and characterizing all the genes and functional elements in an organism’s genome as well as how they interact.|
