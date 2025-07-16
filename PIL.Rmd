@@ -14,7 +14,7 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 &nbsp;
 
 ###  Study Overview
-Thank you for your interest in our research study. Please read this information sheet carefully and discuss it with your family if you wish. Take your time to read it and don’t feel under any pressure to decide right away. It is important for you to understand the study fully before you decide to participate or not. If anything is unclear to you, or if you have any questions at all about the study, please don’t hesitate to get in touch with us by email (familysleeps@mu.ie).
+Thank you for your interest in our research study. Please read this information sheet carefully and discuss it with your family if you wish. Take your time to read it and don’t feel under any pressure to decide right away. It is important for you to understand the study fully before you decide to participate or not. If anything is unclear to you, or if you have any questions at all about the study, please don’t hesitate to get in touch with us by email (family.sleeps@mu.ie).
 
 &nbsp;
 
