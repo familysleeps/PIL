@@ -37,12 +37,17 @@ Even if you meet the above criteria your family cannot take part in the study if
 * You are a member of the FamilySleeps team 
 * Either parent is a shift worker 
 * Either parent drinks more alcohol per week than safe HSE recommendations (women 11 units, men 17 units)  
-* Some examples of a standard drink are: 
-* A pub measure of spirits (35.5ml) 
-* A small glass of wine (12.5% volume) 
-* A half pint of normal beer 
-* An alcopop (275ml bottle) 
-* A bottle of 12.5% alcohol wine has about 7 standard drinks. 
+Some examples of a standard drink are: 
+
+  A pub measure of spirits (35.5ml) 
+  
+  A small glass of wine (12.5% volume) 
+  
+  A half pint of normal beer 
+  
+  An alcopop (275ml bottle) 
+  
+  A bottle of 12.5% alcohol wine has about 7 standard drinks. 
 * Either adult uses recreational drugs  
 * Either adult is a smoker or vapes
 
