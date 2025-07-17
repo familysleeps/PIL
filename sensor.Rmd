@@ -10,11 +10,11 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 <br><br> <!-- Add two line breaks -->
 
 
-##  Instructions for Wrist-Worn Activity Monitor and Bedroom Sensors
+##  Instructions for Wrist-Worn Activity Monitor and Remote Monitoring Sensors
 <br><br> <!-- Add two line breaks -->
 
 ####  Introduction
-Thank you for participating in our research study.  This information sheet will give you full details of how to put on the wrist-worn activity monitor that you and your family will wear on your wrists, and the sensor that will measure sleep and the sleep environment in your children’s bedroom(s).  The purpose of this is to examine your family’s circadian rhythms, physical activity and sleep patterns.
+Thank you for participating in our research study. This information sheet will give you full details of how to put on the wrist-worn activity monitor that you and your family will wear on your wrists, and the sensor that will measure sleep and the sleep environment in your child’s bedroom (remote monitoring sensor). The purpose of this is to examine your family’s circadian rhythms, physical activity and sleep patterns.  
 <br>
 <br>
 
@@ -22,13 +22,15 @@ Thank you for participating in our research study.  This information sheet will 
 
 You will be given a kit that will contain the following:
 
-* Wrist straps containing sensors – one per family member 
-* Remote monitoring sensor – one for the child aged between 6-8 years old
-* USB power plugs and cables for fitting the remote monitoring sensors
+* Wrist straps containing sensors – one per family member (three in total)
+* Remote monitoring sensor – one for one child
+* An adaptor and cables for fitting the remote monitoring sensor
+* A Wi-Fi modem
 
 <br>
 
-#### How do I put on the wrist-worn activity monitor?
+#### What you need to do to put on the wrist-worn activity monitor
+#.  Put the wrist worn sensor on each family members wrist.
 #.	Either the left or right wrist can be used, but you must not change this during the study.
 #.	Please remove the sensor for bathing, showering, swimming or playing with water, but keep it on at all other times including at night.
 #.	Please try to keep the area around the wrist strap clean and dry. 
@@ -37,29 +39,33 @@ You will be given a kit that will contain the following:
 
 <br>
 
-####  Can I wear the wear the wrist worn sensor on my non-dominant hand?
+####  Can I wear the wrist worn sensor on my non-dominant hand?
 
 Yes, either wrist can be used, but you must not change this during the study.
 
 <br>
 
-####  What do I need to do to use the bedside sensor?
-#.  Place the sensor on a table next to the child’s bed or stick to the wall. Please ensure the sensor is approximately 40cm from the bed if possible. Please see below for safety information when fitting the sensor. 
-#.	Plug in the USB plug and connect to the sensor.
-#.	Plug in the modem
-#.	The sensor will record automatically; you do not need to do anything except ensure that it remains plugged in for the duration of the study.  If the sensor is accidently unplugged, then please try to plug it in as soon as you can to avoid data loss.
+#### What you need to do to use the remote monitoring sensor
+#.  Place the remote monitoring sensor on a table next to the child's bed or mount it on the wall at the same height as the child when sleeping. Position the sensor so that its centre is pointing toward the child’s chest.  
+#.	Please ensure the sensor is approximately 40cm from the bed.  
+#.	Please see below for safety information when fitting the sensor.
+#.	The remote monitoring sensor will remain on your nightstand for a long time. Ensure there are no objects between you and the remote monitoring sensor, such as a glass of water, alarm clock, or radio. Also make sure that there are no moving objects, such as a fan, clock, or curtains nearby.
+#.  Plug the smaller rounded end of the cable into the back of the remote monitoring sensor.
+#.  Plug the larger square end of the cable into the adaptor and plug the adaptor into the wall.
+#.  Plug the modem in and please ensure that it is powered on.  
+#.  The sensor will record automatically; you do not need to do anything except ensure that it and the modem remain plugged in for the duration of the study. If the sensor or modem is accidently unplugged, then please try to plug it in as soon as you can to avoid data loss.
 
 Your safety is very important to us. When using the sensors please ensure that you take the following precautions where possible:
 
 * try to plug the sensor in as close to the wall socket as possible, while still within appropriate range of the child’s bed e.g., at the bedside.
-* run the cord/wire along the wall where possible
-* avoid trailing the wire across the room or walkways
-* consider taping the wires to the wall or floor
+* run the cord/wire along the wall where possible.
+* avoid trailing the wire across the room or walkways.
+* consider taping the wires to the wall or floor.
 
 <br>
 
 ####  What happens if I lose or break the sensors?
-The sensors are expensive and an important part of our research and we ask participants to take good care of them.  We understand that equipment could be lost or broken during the study and if that happens you should let us know as soon as possible.
+The sensors are expensive, and an important part of our research and we ask participants to take good care of them.  We understand that equipment could be lost or broken during the study and if that happens you should let us know as soon as possible.
 
 <br>
 
@@ -71,21 +77,18 @@ All sensors are splashproof, but please don’t immerse them in water as this wi
 ####  What happens next?
 When we receive the equipment back at our laboratory, we will analyse your results.
 
-This study is the first time that anyone has used bedside sensors in children, and we don’t yet know what the results will look like. This means that we won’t know what it means for your child’s sleep until we have a bit more experience of using the sensors.
-
-Your child will be sent a certificate from Maynooth University to acknowledge their contribution to scientific research, if you wish.
+This study is the first time that anyone has used bedside sensors in children, and we don’t yet know what the results will look like. This means that we won’t know what it means for your child’s sleep until we have a bit more experience of using the sensors. Your child will be sent a certificate from Maynooth University to acknowledge their contribution to scientific research, if you wish.
 
 <br>
 
 ####   Summary
 
 * Put on the wrist worn sensor.
-* Set up the bedroom sensor.
-* After the study post all equipment and questionnaires back to us in the post-paid envelope.  We will send you an email reminder when it is time to end the study.
+* Set up the remote monitoring sensor in your child’s bedroom.
+* We will arrange collection of the sensors at the appropriate times. We will send you an email reminder when it is time to end the study.
 
-If you have any problems or questions, you can always contact the study contact person at familysleeps@mu.ie or 087 199 8589.
+If you have any problems or questions, you can always contact us at family.sleeps@mu.ie or 086 164 5998 .  
 
-Thank you very much for helping us with our research.
 
 
 
