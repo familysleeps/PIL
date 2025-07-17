@@ -14,32 +14,43 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
  
 In order to take part in this study you and your family need to meet the following criteria:
 
-*  Give informed consent (for adults) or assent (for children) to take part in the study
-*  Have one child aged 6-10 years old on the 01/01/2024 with a clinical diagnosis of autism according to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) or International Classification of Diseases 11th revision (ICD-11) diagnostic criteria for autism. This diagnosis must be verified by a clinical report. You must consent to this report(s) being reviewed by a psychiatrist, who will provide clinical confirmation of each family’s eligibility for participation.
-*  Have one non-autistic child aged between 6-10 years old on the 01/01/2024.
-*  All family members must have stable medical and behavioural conditions e.g. treated asthma, diabetes etc.
-*  Your family must be located in the Republic of Ireland.
-*  All family members must be biologically related.
+*  Give informed consent (for adults) or assent (for children) to take part in the study 
+*  Have one child aged 6-10 years old on the 01/06/2025 with a clinical diagnosis of autism according to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) or International Classification of Diseases 11th revision (ICD-11) diagnostic criteria for autism. This diagnosis must be verified by a clinical report (relevant assessments can include clinical observations, caregiver history, self-report, behavioural assessments, Autism Diagnostic Observation Schedule (ADOS), and Autism Diagnostic Interview – Revised (ADI-R)). These reports will be reviewed by a psychiatrist, who will provide clinical confirmation of each family’s eligibility for participation   
+* Have one non-autistic child aged between 6-10 years old on the 01/06/2025   
+* All family members must have stable medical and behavioural conditions e.g. treated asthma, diabetes etc.  
+* Your family must be located in the Republic of Ireland  
+* All family members must be biologically related  
 
 Even if you meet the above criteria your family cannot take part in the study if:
 
-*  Any family member does not consent or assent to participate in the study.
-*  Children are unable to tolerate sensors
-*  Any family member has a DSM-5 diagnosis of an intellectual disability
-*  Autistic children do not have a clinical report confirming their diagnosis
-*  Individuals have conditions associated with secondary autism (e.g., Rett syndrome)
-*  Children have a complex neurologic disorder (cerebral palsy, phenylketonuria, tuberous sclerosis, neurofibromatosis, unstable seizure disorder [a seizure within 6 months]).
-*  Children have known genetic syndromes with characteristic behavioural phenotypes, e.g., Fragile X, DiGeorge Syndrome, Smith Magenis Syndrome.
-*  Children have co-morbid psychiatric conditions including schizophrenia and psychosis
-*  Children have an unstable/untreated medical condition (e.g., asthma, diabetes, cystic fibrosis etc) or any other condition/factor that would limit their ability to participate in the study (e.g., severe physical disability). 
-*  Children have significant uncorrected hearing or vision loss
-*  Children have known sleeping conditions/disorders (e.g., untreated sleep apnoea)
-*  Any family members had a change in medications and/or health status in the last 3 months
-*  Any family member is taking sleep altering drugs, including melatonin or stimulants
-*  Any family member has a known history of obstructive sleep apnoea, narcolepsy, or restless leg syndrome
-*  An immediate family member or a first degree relative of either parent has a major neuropsychiatric disorder
-*  You are a member of the FamilySleeps team
-*  Either parent is a shift worker
-*  Either parent drinks more alcohol per week than safe HSE recommendations (women 11 drinks, men 17 drinks)
-*  Either adult uses recreational drugs
-*  Either adult is a smoker 
+*  Any family member does not consent or assent to participate in the study 
+*  Children are unable to tolerate sensors 
+*  Any family member has a DSM-5 diagnosis of an intellectual disability  
+*  Autistic children do not have a clinical report confirming their diagnosis  
+*  Individuals have conditions associated with secondary autism (e.g., Rett syndrome)  
+*  Children have a complex neurologic disorder (cerebral palsy, phenylketonuria, tuberous sclerosis, neurofibromatosis, unstable seizure disorder [a seizure within 6 months])  
+*  Children have known genetic syndromes with characteristic behavioural phenotypes, e.g., Fragile X, DiGeorge Syndrome, Smith Magenis Syndrome   
+*  Children have co-morbid psychiatric conditions including schizophrenia and psychosis  
+*  Children have an unstable/untreated medical condition (e.g., asthma, diabetes, cystic fibrosis etc) or any other condition/factor that would limit their ability to participate in the study (e.g., severe physical disability)  
+*  Children have significant uncorrected hearing or vision loss  
+*  Children have known sleeping conditions/disorders (e.g., untreated sleep apnoea)    
+*  Any family members had a change in medications and/or health status in the last 3 months   
+*  Any family member is taking sleep altering drugs, including melatonin or stimulants 
+*  Any family member has a known history of obstructive sleep apnoea, narcolepsy, or restless leg syndrome    
+*  An immediate family member or a first degree relative of either parent has a major neuropsychiatric disorder    
+*  You are a member of the FamilySleeps team  
+*  Either parent is a shift worker  
+*  Either parent drinks more alcohol per week than safe HSE recommendations (women 11 drinks, men 17 drinks)  
+Some examples of a standard drink are: 
+
+    A pub measure of spirits (35.5ml) 
+  
+    A small glass of wine (12.5% volume) 
+  
+    A half pint of normal beer 
+  
+    An alcopop (275ml bottle) 
+  
+    A bottle of 12.5% alcohol wine has about 7 standard drinks. 
+*  Either adult uses recreational drugs  
+*  Either adult is a smoker or vapes 
