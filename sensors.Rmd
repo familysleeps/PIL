@@ -16,6 +16,7 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 ###  Introduction
 Thank you for participating in our research study. This information sheet will give you full details of how to put on the wrist-worn activity monitor that you and your family will wear on your wrists, and the sensor that will measure sleep and the sleep environment in your child’s bedroom (remote monitoring sensor). The purpose of this is to examine your family’s circadian rhythms, physical activity and sleep patterns. 
 
+"As part of the FamilySleeps study, you will be sent two types of sensors. The first is a bedside sleep sensor (Somnofy) that will measure sleep and the sleep environment in one of your children’s bedroom. The second is the wrist-worn activity monitor (Axivity) that you and your family will wear on your wrists. This page contains details on how to set up these two sensors. When you are setting them up, if you have any problems or questions, please feel free to contact us at family.sleeps@mu.ie or 086 164 5998."
 &nbsp;
 
 #### What is in the sensor kit?  
@@ -25,6 +26,14 @@ You will be given a kit that will contain the following:
 * Remote monitoring sensor – one for one child
 * An adaptor and cables for fitting the remote monitoring sensor
 * A Wi-Fi modem 
+
+
+
+```{r somnofy_case, fig.align='center',echo=FALSE}
+knitr::include_graphics("images/Slide2.JPG")
+```
+
+
 
 &nbsp;
 
@@ -36,6 +45,12 @@ You will be given a kit that will contain the following:
 #.	Please monitor each family members wrist for any signs of skin irritation.  If this happens, please remove and return the sensors to us.
 #.	If you remove the sensor for swimming or taking a shower, and you forget to put it back on, don't worry, just put it back on as soon as you can.
 
+```{r wrist_worn1, fig.align='center',echo=FALSE}
+knitr::include_graphics("images/Slide6.JPG")
+```
+```{r wrist_worn2, fig.align='center',echo=FALSE}
+knitr::include_graphics("images/Slide7.JPG")
+```
 
 &nbsp;
 
@@ -51,21 +66,23 @@ Yes, either wrist can be used, but you must not change this during the study.
 #.	The remote monitoring sensor will remain on your nightstand for a long time. Ensure there are no objects between you and the remote monitoring sensor, such as a glass of water, alarm clock, or radio. Also make sure that there are no moving objects, such as a fan, clock, or curtains nearby.
 #.  Plug the smaller rounded end of the cable into the back of the remote monitoring sensor.
 
-```{r somnofy_cable, fig.align='center',echo=FALSE}
-knitr::include_graphics("images/somnofy_cable.svg")
+```{r somnofy_cable1, fig.align='center',echo=FALSE}
+knitr::include_graphics("images/Slide3.JPG")
 ```
 
-
-#.  Plug the larger square end of the cable into the adaptor and plug the adaptor into the wall.
-#.  Plug the modem in and please ensure that it is powered on.  
-
-  
-```{r adapter, fig.align='center',echo=FALSE}
-knitr::include_graphics("images/adapter.svg")
+```{r somnofy_cable2, fig.align='center',echo=FALSE}
+knitr::include_graphics("images/Slide4.JPG")
 ```
 
+```{r somnofy_cable3, fig.align='center',echo=FALSE}
+knitr::include_graphics("images/Slide5.JPG")
+```
 
-#.  The sensor will record automatically; you do not need to do anything except ensure that it and the modem remain plugged in for the duration of the study. If the sensor or modem is accidently unplugged, then please try to plug it in as soon as you can to avoid data loss.
+6.  Plug the larger square end of the cable into the adaptor and plug the adaptor into the wall.
+
+7.  Plug the modem in and please ensure that it is powered on.
+
+8.  The sensor will record automatically; you do not need to do anything except ensure that it and the modem remain plugged in for the duration of the study. If the sensor or modem is accidently unplugged, then please try to plug it in as soon as you can to avoid data loss.
 
 <br> <!-- Add two line breaks -->
 &nbsp;
