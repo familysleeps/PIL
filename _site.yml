@@ -28,3 +28,5 @@ navbar:
       href: assent.html
     - text: "Contacts"
       href: contacts.html
+    - text: "Register Your Interest"
+      href: register.html
