@@ -25,6 +25,6 @@ Families with at least two children aged 6–10, with no autism diagnosis (for o
  
 If your family fits either group and you’d like to find out more, scan the *QR code* , just register your interest and someone from our team will be in touch.
 
-```{r team,echo=FALSE}
-knitr::include_graphics("images/groupphoto.JPEG")
+```{r team,echo=FALSE, out.width="20%"}
+knitr::include_graphics("images/fsparticipate_form.JPEG")
 ```
