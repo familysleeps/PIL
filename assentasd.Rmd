@@ -23,6 +23,8 @@ knitr::include_graphics("images/assent1.png")
 knitr::include_graphics("images/assent2.png")
 ```
 
-
+```{r page3,fig.align='center', fig.width=20,echo=FALSE, out.width="150%"}
+knitr::include_graphics("images/1asdassent.png")
+```
 
 
