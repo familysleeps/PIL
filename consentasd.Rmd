@@ -14,20 +14,75 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 ##  Sample Consent Form for Adult Participants
 
 It must be recognised that, in some circumstances, confidentiality of research data and records may be overridden by courts in the event of litigation or in the course of investigation by lawful authority. In such circumstances the University will take all reasonable steps within law to ensure that confidentiality is maintained to the greatest possible extent.
+
 If you agree to your participation in this research study, please complete the consent form below.
 
 ```{r page1,fig.align='center', fig.width=20,echo=FALSE, out.width="80%"}
-knitr::include_graphics("images/1.jpeg")
+knitr::include_graphics("images/1.png")
 ```
 
 ```{r page2,fig.align='center', fig.width=20,echo=FALSE, out.width="80%"}
-knitr::include_graphics("images/2.jpeg")
+knitr::include_graphics("images/2.png")
 ```
 
-
+```{r page3,fig.align='center', fig.width=20,echo=FALSE, out.width="80%"}
+knitr::include_graphics("images/3.png")
+```
 
 &nbsp;  
 
 Participant’s Name (Printed):……………………………………….…………………………  
 Participant’s Signature:…………………………………………………………………………………  
-Date:……………….…………………………………………………………………………………………………………………  
+Date:……………….………………………………………………………………………………………………………………… 
+
+&nbsp;
+
+##  Sample Consent Form for Parents of an Autistic Child
+
+It must be recognised that, in some circumstances, confidentiality of research data and records may be overridden by courts in the event of litigation or in the course of investigation by lawful authority. In such circumstances the University will take all reasonable steps within law to ensure that confidentiality is maintained to the greatest possible extent.
+
+If you agree to your child’s participation in this research study, please complete the consent form below.
+
+```{r page4,fig.align='center', fig.width=20,echo=FALSE, out.width="80%"}
+knitr::include_graphics("images/4.png")
+```
+
+```{r page5,fig.align='center', fig.width=20,echo=FALSE, out.width="80%"}
+knitr::include_graphics("images/5.png")
+```
+
+```{r page6,fig.align='center', fig.width=20,echo=FALSE, out.width="80%"}
+knitr::include_graphics("images/6.png")
+```
+
+&nbsp;  
+
+Parent’s Name (Printed):……………………………………….…………………………  
+Parent’s Signature:…………………………………………………………………………………  
+Date:……………….………………………………………………………………………………………………………………… 
+
+&nbsp;
+
+##  Sample Consent Form for Parents of a Non-Autistic Child (Families with an Autistic Child)
+
+It must be recognised that, in some circumstances, confidentiality of research data and records may be overridden by courts in the event of litigation or in the course of investigation by lawful authority. In such circumstances the University will take all reasonable steps within law to ensure that confidentiality is maintained to the greatest possible extent.
+
+If you agree to your child’s participation in this research study, please complete the consent form below.
+
+```{r page7,fig.align='center', fig.width=20,echo=FALSE, out.width="80%"}
+knitr::include_graphics("images/7.png")
+```
+
+```{r page8,fig.align='center', fig.width=20,echo=FALSE, out.width="80%"}
+knitr::include_graphics("images/8.png")
+```
+
+```{r page9,fig.align='center', fig.width=20,echo=FALSE, out.width="80%"}
+knitr::include_graphics("images/9.png")
+```
+
+&nbsp;  
+
+Parent’s Name (Printed):……………………………………….…………………………  
+Parent’s Signature:…………………………………………………………………………………  
+Date:……………….………………………………………………………………………………………………………………… 
