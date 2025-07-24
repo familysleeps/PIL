@@ -13,6 +13,8 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 
 <br><br> <!-- Add two line breaks -->
 
+[To register interest, click here](https://www.familygenomics.maynoothuniversity.ie/participate)
+
 **Thank you for your interest in our research study “FamilySleeps: Investigation of circadian rhythms and sleep in families: a focus on autism” led by Prof Lorna Lopez.**
 
 In FamilySleeps we will discover more about sleep and its genetic links with autism. We will use state-of-the-art technology to track sleep over one year in families with and without autistic children. Sleep disruption is a big problem for families with autistic children and this research aims to find ways to improve sleep and quality of life for families with autistic children.
@@ -23,8 +25,4 @@ We’re recruiting two groups:
 Families with at least two children aged 6–10, where one child has an autism diagnosis
 Families with at least two children aged 6–10, with no autism diagnosis (for our comparison group)
  
-If your family fits either group and you’d like to find out more, scan the *QR code* , just register your interest and someone from our team will be in touch.
-
-```{r team,echo=FALSE, out.width="20%"}
-knitr::include_graphics("images/fsparticipate_form.JPEG")
-```
+If your family fits either group and you’d like to find out more, just register your interest and someone from our team will be in touch.
