@@ -23,6 +23,6 @@ knitr::include_graphics("images/assent1.png")
 knitr::include_graphics("images/assent2.png")
 ```
 
-cat('<iframe src="files/sample.pdf" width="100%" height="600px"></iframe>')
+
 
 
