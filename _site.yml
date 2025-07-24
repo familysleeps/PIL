@@ -26,8 +26,14 @@ navbar:
             href: consent.html
           - text: "Sample Assent Form"
             href: assent.html
-    - text: "Inclusion Criteria - Autistic Child"
-      href: exclusion_ASD.html
+    - text: "Autistic Child"
+      menu:
+          - text: "Inclusion Criteria"
+            href: exclusion_ASD.html
+          - text: "Sample Consent Form"
+            href: consentasd.html
+          - text: "Sample Assent Form"
+            href: assentasd.html
     - text: "Contacts"
       href: contacts.html
     - text: "Register Your Interest"
