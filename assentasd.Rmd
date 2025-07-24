@@ -8,7 +8,7 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 
 <br><br> <!-- Add two line breaks -->
 
-##  Assent Form for Autistic Children 
+##  Sample Assent Form for Children with Autism
 &nbsp;
 If you agree to take part in this research study, please read, tick and sign below.
 &nbsp;
@@ -18,13 +18,47 @@ knitr::include_graphics("images/assent1.png")
 ```
 
 
-
-```{r page2,fig.align='center', fig.width=20,echo=FALSE, out.width="150%"}
+```{r page2,fig.align='center', fig.width=20,echo=FALSE, out.width="87%"}
 knitr::include_graphics("images/assent2.png")
 ```
 
-```{r page3,fig.align='center', fig.width=20,echo=FALSE, out.width="150%"}
-knitr::include_graphics("images/1asdassent.png")
+&nbsp;
+
+Child’s Name (Printed):……………………………………….…………………………  
+Child’s Signature:…………………………………………………………………………………  
+
+If your child cannot sign their name for any reason, they can tick/mark the following box to indicate they assent to taking part in this study:    
+<input type="checkbox">
+
+Parent’s Name (Printed):……………………………………….…………………………  
+Parent’s Signature:…………………………………………………………………………………  
+Date:……………….………………………………………………………………………………………………………………… 
+
+&nbsp;
+
+##  Sample Assent Form for Children without Autism (Families with an Autistic Child)
+&nbsp;
+If you agree to take part in this research study, please read, tick and sign below.
+&nbsp;
+
+```{r page3,fig.align='center', fig.width=20,echo=FALSE, out.width="87%"}
+knitr::include_graphics("images/assent3.png")
 ```
 
+```{r page4,fig.align='center', fig.width=20,echo=FALSE, out.width="87%"}
+knitr::include_graphics("images/assent4.png")
+```
 
+&nbsp;
+
+Child’s Name (Printed):……………………………………….…………………………  
+Child’s Signature:…………………………………………………………………………………  
+
+If your child cannot sign their name for any reason, they can tick/mark the following box to indicate they assent to taking part in this study:    
+<input type="checkbox">
+
+Parent’s Name (Printed):……………………………………….…………………………  
+Parent’s Signature:…………………………………………………………………………………  
+Date:……………….………………………………………………………………………………………………………………… 
+
+&nbsp;
