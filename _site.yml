@@ -18,14 +18,16 @@ navbar:
       href: glossary.html
     - text: "Sensors"
       href: sensors.html
-    - text: "Inclusion Critera"
-      href: exclusion_NT.html
+    - text: "Non-autistic Child"
+      menu:
+          - text: "Inclusion Criteria"
+            href: exclusion_NT.html
+          - text: "Sample Consent Form"
+            href: consent.html
+          - text: "Sample Assent Form"
+            href: assent.html
     - text: "Inclusion Criteria - Autistic Child"
       href: exclusion_ASD.html
-    - text: "Sample Consent Form"
-      href: consent.html
-    - text: "Sample Assent Form"
-      href: assent.html
     - text: "Contacts"
       href: contacts.html
     - text: "Register Your Interest"
