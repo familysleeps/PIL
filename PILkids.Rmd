@@ -10,7 +10,7 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 
 <br><br> <!-- Add two line breaks -->
 
-##  Research Study Information Sheet for Children aged 6-8 years
+##  Research Study Information Sheet for Children aged 6-10 years
 &nbsp;
 
 Thank you for reading about our study. There is lots of information in this sheet, please read it carefully and talk about it with your family. If you do not understand something or if you have any questions, please ask your parents to call or email us.  
