@@ -13,7 +13,7 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 
 <br><br> <!-- Add two line breaks -->
 
-[To register interest, click here](https://www.familygenomics.maynoothuniversity.ie/participate)
+[To register your interest, click here](https://www.familygenomics.maynoothuniversity.ie/participate)
 
 **Thank you for your interest in our research study “FamilySleeps: Investigation of circadian rhythms and sleep in families: a focus on autism” led by Prof Lorna Lopez.**
 

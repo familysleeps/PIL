@@ -119,7 +119,7 @@ We have taken great care to identify and address any potential safety concerns, 
 &nbsp;
 
 ####  What information about me will be used as part of this study? 
-With your consent, when we enrol you in the study, we will record your name, age, date of birth (DOB), sex, address, and contact details (email and phone number). We will use your contact details to contact you about the research study, and not for any other reason. We will record your children’s names, sexes, and ages (DOB,.  
+With your consent, when we enrol you in the study, we will record your name, age, date of birth (DOB), sex, address, and contact details (email and phone number). We will use your contact details to contact you about the research study, and not for any other reason. We will record your children’s names, sexes, and ages (DOB).  
  
 For families with an autistic child, we will ask you to provide a clinical report from a psychiatrist or psychologist to confirm your child’s diagnosis of autism. We will keep a copy of this report for the purpose of clinical verification by a member of the team that is an experienced clinician. Following verification, we will destroy this stored report. However, we will retain your child’s clinical information e.g., confirmed diagnosis of autism. This information will be retained in pseudonymised form – we will not be able to link it back to your child’s name or your family’s details.  
  
@@ -151,39 +151,35 @@ If you choose to withdraw or do not return the sensors within 6 months of the en
 
 #### Where will my data be stored?
 The FamilyGenomics Team in Maynooth University will store all data on password-protected laptops in the Republic of Ireland. 
-Additional data processors are VitalThings. OnlineSurveys and DNA (TBD).  
+Additional data processors are VitalThings, OnlineSurveys and DNA (TBD).  
 Axivity is not a data processor, as the data will exclusively be stored on the device, which is not connected to the internet. Once the FamilyGenomics Team receives the devices back, the data will be transferred to our dataset, which Axivity will not have access to at any point in time.
 
 &nbsp;
 
 #### Data Processors
-Maynooth University All data
+<style>
+  table {
+    width: 200%;
+    border-collapse: collapse;
+  }
 
-Maynooth University, Maynooth, Co. Kildare. Maynooth University 
-Data Protection officer can be contacted at 17 Rye Hall Extension, North Campus, who can be contacted at dataprotection@mu.ie.  
-Maynooth University Data Privacy policies can be found at https://www.maynoothuniversity.ie/data-protection.
+  th, td {
+    
+    padding: 10px;
+    text-align: left; /* Left align content */
+  }
 
-VitalThings (Somnofy) Sleep sensor data 
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
 
-VitalThings stores their data in Norway, which is an EEA member state and therefore follows GDPR regulations. 
-While VitalThings is a Data Processor, meaning they have access to your data, we would like to remind you that the data they have access to is stored in pseudonymised form, meaning they won’t be able to identify anyone based on the information they have access to. If you contact them, you will provide them with personal details that they otherwise would not have access to. However, as they are a data processor, it is a GDPR regulation to provide the contact details. 
-VitalThings’ privacy policy statement can be found here: https://vitalthings.com/en/personvernerklaering/  
-If you have any concerns or enquiries about how VitalThings processes your data or you wish to exercise your rights, you can contact them at: 
-Phone: +47 402 05 300 
-E-mail: mail@vitalthings.com 
-Visiting address: Dybdahls veg 3-5, 7051 Trondheim, Norway 
-
-Onlinesurveys.ac.uk Questionnaire and Consent Form Data
-
-OnlineSurveys stores the data in the Republic of Ireland. 
-While OnlineSurveys is a Data Processor, meaning they have access to your data, we would like to remind you that the data they have access to is stored in pseudonymised form, meaning they won’t be able to identify anyone based on the information they have access to. If you contact them, you will provide them with personal details that they otherwise would not have access to. However, as they are a data processor, it is a GDPR regulation to provide the contact details. 
-OnlineSurveys’ privacy notice can be found here: https://www.jisc.ac.uk/website/privacy-notice  
-If you have any concerns or enquiries about how VitalThings processes your data or you wish to exercise your rights, you can contact them at: 
-E-mail: dataprotection@jisc.ac.uk  
-Registered Office: 4 Portwall Lane, Bristol, BS1 6NB, United Kingdom 
-
-DNA extraction service provider (TBD) 
-DNA analysis service provider (TBD) 
+|         |            |
+| ------------- |:-------------:| -:|
+| Maynooth University<br>  *All data* | Maynooth University, Maynooth, Co. Kildare.<br> Maynooth University Data Protection officer can be contacted at 17 Rye Hall Extension, North Campus, who can be contacted at dataprotection@mu.ie.<br> Maynooth University Data Privacy policies can be found at https://www.maynoothuniversity.ie/data-protection. |   
+| VitalThings (Somnofy)<br> *Sleep sensor data*              | VitalThings stores their data in Norway, which is an EEA member state and therefore follows GDPR regulations. While VitalThings is a Data Processor, meaning they have access to your data, we would like to remind you that the data they have access to is stored in pseudonymised form, meaning they won’t be able to identify anyone based on the information they have access to. If you contact them, you will provide them with personal details that they otherwise would not have access to. However, as they are a data processor, it is a GDPR regulation to provide the contact details. VitalThings’ privacy policy statement can be found here: https://vitalthings.com/en/personvernerklaering/. If you have any concerns or enquiries about how VitalThings processes your data or you wish to exercise your rights, you can contact them at:<br> **Phone**: +47 402 05 300<br> **E-mail**: mail@vitalthings.com<br> **Visiting address**: Dybdahls veg 3-5, 7051 Trondheim, Norway  |
+| Onlinesurveys.ac.uk<br> *Questionnaire and Consent Form Data*       | OnlineSurveys stores the data in the Republic of Ireland.<br> While OnlineSurveys is a Data Processor, meaning they have access to your data, we would like to remind you that the data they have access to is stored in pseudonymised form, meaning they won’t be able to identify anyone based on the information they have access to. If you contact them, you will provide them with personal details that they otherwise would not have access to. However, as they are a data processor, it is a GDPR regulation to provide the contact details.<br> OnlineSurveys’ privacy notice can be found here: https://www.jisc.ac.uk/website/privacy-notice<br> If you have any concerns or enquiries about how VitalThings processes your data or you wish to exercise your rights, you can contact them at:<br> **E-mail**: dataprotection@jisc.ac.uk<br> **Registered Office**: 4 Portwall Lane, Bristol, BS1 6NB, United Kingdom   |
+| DNA extraction service provider (TBD)<br> DNA analysis service provider (TBD)      | |
 
 &nbsp;
 
@@ -275,11 +271,7 @@ If you have concerns or questions about any aspect of the study or if you wish t
  
 Under GDPR, If you are unhappy with the outcome of your complaint or how your request to exercise your rights in relation to your personal data has been processed by MU, you also have the right to make a complaint to the Data Protection Commission directly. 
  
-**Dublin Office**: Data Protection Commission, 6 Pembroke Row, Dublin 2, D02 X963. 
-**Portarlington Office**: Data Protection Commission, Canal House, Station Road, Portarlington, R32 AP23, Co. Laois. 
-
-**Email**: info@dataprotection.ie Website: www.dataprotection.ie 
-**Phone**: 01 7650100 / 1800437 737 
+**Dublin Office**: Data Protection Commission, 6 Pembroke Row, Dublin 2, D02 X963.<br> **Portarlington Office**: Data Protection Commission, Canal House, Station Road, Portarlington, R32 AP23, Co. Laois.<br> **Email**: info@dataprotection.ie Website: www.dataprotection.ie<br> **Phone**: 01 7650100 / 1800437 737 
 
 &nbsp;
 
@@ -300,10 +292,7 @@ Under GDPR, if you are not satisfied with how your data is being processed, you 
 
 If you would like more information about the ethics committee’s approval of this study, please contact research.ethics@mu.ie. 
 
-The Data Processors for this study are:
-1.Maynooth University, Maynooth, Co. Kildare 
-2.VitalThings 
-3.DNA Extraction & DNA Analysis (TBD) 
+The Data Processors for this study are:<br> 1.Maynooth University, Maynooth, Co. Kildare<br> 2.VitalThings<br> 3.DNA Extraction & DNA Analysis (TBD) 
 
 The Data Controller for this research project is Maynooth University.  
 
