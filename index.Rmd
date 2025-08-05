@@ -39,6 +39,8 @@ knitr::include_graphics("images/signLL.png")
 
  
 Professor
+
 Department of Biology
+
 Maynooth University
 
