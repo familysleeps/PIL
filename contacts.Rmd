@@ -19,8 +19,6 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 #### Research Team:  
 Prof Lorna M. Lopez, Maynooth University (Lead Investigator) 
 
-Dr Cathy Wyse, Maynooth University (Researcher)  
-
 Dr Mailton Vasconcelos, Maynooth University (Researcher)
 
 Ms Holly Hughes, Maynooth University (Research Assistant)
