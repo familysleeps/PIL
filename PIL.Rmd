@@ -308,7 +308,7 @@ Family Genomics Research Team, Department of Biology, Maynooth University, Co. K
 
 
 ```{r team,echo=FALSE}
-knitr::include_graphics("images/group_photo_hh.jpeg")
+knitr::include_graphics("01122025gropuphoto.jpeg")
 ```
 
 <br><br>
