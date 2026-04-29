@@ -13,7 +13,7 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 In order to take part in this study you and your family need to meet the following criteria:
 
 * Give informed consent (for adults) and assent (for children) 
-* Have a minimum of two non-autistic children aged 6-10 years old on the 01/06/2025.  
+* Have a minimum of two non-autistic children aged 5-14 years old.  
 * All family members must have stable medical and behavioural conditions e.g. treated asthma, diabetes, etc.  
 * Your family must be located in the Republic of Ireland  
 * All family members must be biologically related 
@@ -21,12 +21,13 @@ In order to take part in this study you and your family need to meet the followi
 Even if you meet the above criteria your family cannot take part in the study if:
 
 * Any family member does not consent or assent to participate in the study 
-* Children are unable to tolerate sensors  
+* Children are unable to tolerate sensors (if needed, a trial period can be undertaken to allow children to become familiar with the sensors)$^{1}$
 * Any family member has a DSM-5 diagnosis of an intellectual disability  
 * Individuals have conditions associated with secondary autism (e.g., Rett syndrome)  
 * Children have a complex neurologic disorder (cerebral palsy, phenylketonuria, tuberous sclerosis, neurofibromatosis, unstable seizure disorder [a seizure within 6 months])  
 * Children have known genetic syndromes with characteristic behavioural phenotypes, e.g., Fragile X, DiGeorge Syndrome, Smith Magenis Syndrome   
-* Children have co-morbid psychiatric conditions including schizophrenia and psychosis 
+* Children have co-morbid psychiatric conditions including schizophrenia and psychosis, whereas other common conditions such as ADHD and Anxiety are not exclusionary. Other examples of cooccurring neurodevelopmental or emotional features can be emotional
+regulation difficulties (i.e. difficulties managing emotional responses) and mild emotional or mood related symptoms (i.e. subthreshold depressive symptoms) that do not meet criteria for a formal psychiatric diagnosis.
 * Children have an unstable/untreated medical condition (e.g., asthma, diabetes, cystic fibrosis etc) or any other condition/factor that would limit their ability to participate in the study (e.g., severe physical disability)  
 * Children have significant uncorrected hearing or vision loss 
 * Children have known sleeping conditions/disorders (e.g., untreated sleep apnoea) 
@@ -51,4 +52,16 @@ Some examples of a standard drink are:
 * Either adult uses recreational drugs  
 * Either adult is a smoker or vapes
 
+---
 
+
+$^{1}$ A brief, optional familiarisation period will be offered prior to enrolment to establish the child’s sensitivity to the wristworn sensors. Parents will be provided with nonrecording, inert devices (available in two colour options) for the child to wear at home for a period of two to three days. During this period, parents are asked to observe and report the child’s comfort, willingness to wear the device and any signs of distress or refusal. No study data are collected during this phase. For
+decision making the following **go/nogo criteria** will be observed:
+
+– Go: The child is willing to wear the device for typical daily periods without distress, and both the
+child and parent report acceptable comfort and tolerability.
+
+– Nogo: The child expresses ongoing unwillingness, removes the device repeatedly, or shows distress
+despite the familiarisation period. In such cases, the child will not proceed to enrolment.
+Only where tolerability is established will the standard assent and consent procedures be
+undertaken, in line with the approved study protocol.
