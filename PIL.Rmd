@@ -13,7 +13,20 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 ##  Research Study Information Sheets
 &nbsp;
 
-###  Study Overview
+### Research Team:
+Prof Lorna M. Lopez, Maynooth University (Lead Researcher)
+
+Dr Mailton Vasconcelos, Maynooth University (Postdoctoral Researcher)
+
+Ms Holly Hughes, Maynooth University (Research Assistant)
+
+Mr Aung Myat Phyo, Maynooth University (PhD Student)
+
+Clinical Psychiatrist – Dr Louise Gallagher (School of Medicine, Trinity College Dublin and The Hospital for SickKids - University of Toronto, Canada)
+
+&nbsp;
+
+####  Study Overview
 Thank you for your interest in our research study. Please read this information sheet carefully and discuss it with your family if you wish. Take your time to read it and don’t feel under any pressure to decide right away. It is important for you to understand the study fully before you decide whether you want to participate or not. If anything is unclear to you, or if you have any questions at all about the study, please don’t hesitate to get in touch with us by email (family.sleeps@mu.ie) or phone (086 164 5998).  
  
 &nbsp;
@@ -28,7 +41,7 @@ In order to do this work, we first need to measure sleep and circadian rhythms i
 &nbsp;
 
 ####  Why am I being asked to take part in this research study? 
-We have asked you to take part because you are a parent of at least two non-autistic children aged 6-10 years old or you are a parent of at least one non-autistic child aged 6-10 years old and one autistic child aged 6-10 years old, and because you are willing to help us to investigate sleep and circadian rhythms in families. 
+We have asked you to take part because you are a parent of at least two non-autistic children aged 5-14 years old or you are a parent of at least one non-autistic child aged 5-14 years old and one autistic child aged 5-14 years old, and because you are willing to help us to investigate sleep and circadian rhythms in families. 
 
 <br>
 
@@ -52,7 +65,7 @@ We will give you a research kit that includes written instructions and all mater
 
 You will be asked to do the following tasks: 
 
-1. Put a wrist-worn activity monitor on each parent and two children (this will be worn day and night) and supervise wear for 2 weeks every 3 months, so 4 times during the study. We will ask you to remove the wrist-worn activity monitor before coming into contact with water, such as when bathing or swimming, and put it back on as soon as possible afterwards. This will be easy to remove and replace as necessary. The device will monitor movement continuously throughout the day and night. The device will only monitor movement. Below is an example of the wrist-worn activity monitor each family member will wear for 2 weeks in months 3, 6, 9 and 12.  
+1. Put a wrist-worn activity monitor on each parent and two children (this will be worn day and night) and supervise wear for 2 weeks every 3 months, so 4 times during the study. We will ask you to remove the wrist-worn activity monitor before coming into contact with water, such as when bathing or swimming, and put it back on as soon as possible afterwards. This will be easy to remove and replace as necessary. The device will monitor movement continuously throughout the day and night. The device will only monitor movement. Below is an example of the wrist-worn activity monitor each family member will wear for 2 weeks in months 3, 6, 9 and 12. In addition to this, if needed, a trial period can be undertaken to allow children to become familiar with wearing these sensors, before participating in the study. 
 
 
 ```{r watch, fig.align='center',echo=FALSE}
@@ -215,6 +228,11 @@ Additionally, this study’s procedures underwent a Data Protection Impact Asses
 
 ####  Will my personal data and/or sensor data be used in future studies?  
 The data we collect will be pseudonymised to reduce the likelihood of anyone, including the research team identifying the participants from the datasets. In line with ethical requirements, the data will be retained in Maynooth University for 10 years after completion of the study. During this period, using the data for any purposes outside of the ones outlined in this information leaflet would be a breach of GDPR. Therefore, data cannot be used for teaching, future research, or form part of a mixed dataset unless further ethical review and approval, as well as your consent for the specific purposes have been provided. 
+
+&nbsp;
+
+#### What if I am unsure my child can tolerate the wrist sensor?
+A brief, optional familiarisation period will be offered prior to enrolment to establish the child’s sensitivity to the wrist worn sensors. Parents will be provided with non-recording, inert devices (available in two colour options) for the child to wear at home for a period of two to three days. During this period, parents are asked to observe and report the child’s comfort, willingness to wear the device and any signs of distress or refusal. No study data are collected during this phase.
 
 &nbsp;
 
