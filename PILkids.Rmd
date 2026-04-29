@@ -10,7 +10,7 @@ knitr::include_graphics("images/logo_questionnaire_hi.png")
 
 <br><br> <!-- Add two line breaks -->
 
-##  Research Study Information Sheet for Children aged 6-10 years
+##  Research Study Information Sheet for Children aged 5-14 years
 &nbsp;
 
 Thank you for reading about our study. There is lots of information in this sheet, please read it carefully and talk about it with your family. If you do not understand something or if you have any questions, please ask your parents to call or email us.  
@@ -55,7 +55,7 @@ knitr::include_graphics("images/somnofy.png")
 <br><br> <!-- Add two line breaks -->
 
 
-We will give you another sensor that looks like a watch to wear for two weeks at four different times during the study. You will wear the watch for 8 weeks in total over the year that you are in the study. This tells us about your sleep and movement during the day and night. The watch has no screen, and it will not tell you anything. This watch will be easy to take off so you can take it off whenever you need to, or you can ask your parents to take it off for you.  
+We will give you another sensor that looks like a watch to wear for two weeks at four different times during the study. You will wear the watch for 8 weeks in total over the year that you are in the study, as well as a potential test period. This tells us about your sleep and movement during the day and night. The watch has no screen, and it will not tell you anything. This watch will be easy to take off so you can take it off whenever you need to, or you can ask your parents to take it off for you.  
 
 <br><br> <!-- Add two line breaks -->
 
