@@ -30,11 +30,9 @@ Even if you meet the above criteria your family cannot take part in the study if
 regulation difficulties (i.e. difficulties managing emotional responses) and mild emotional or mood related symptoms (i.e. subthreshold depressive symptoms) that do not meet criteria for a formal psychiatric diagnosis.
 * Children have an unstable/untreated medical condition (e.g., asthma, diabetes, cystic fibrosis etc) or any other condition/factor that would limit their ability to participate in the study (e.g., severe physical disability)  
 * Children have significant uncorrected hearing or vision loss 
-* Children have known sleeping conditions/disorders (e.g., untreated sleep apnoea) 
-* Any family members had a change in medications and/or health status in the last 3 months 
+* Children have known sleeping conditions/disorders (e.g., untreated moderate-severe obstructive sleep apnoea, narcolepsy, clinically significant restless leg syndrome) and other family members have unstable/untreated sleep conditions/disorders.
 * Any family member is taking sleep altering drugs, including melatonin or stimulants 
-* Any family member has a known history of obstructive sleep apnoea, narcolepsy, or restless leg syndrome in any family member    
-* An immediate family member or a first degree relative of either parent has a major neuropsychiatric or neurodevelopmental disorder   
+* A member of the household has a major neuropsychiatric or neurodevelopmental disorder  
 * You are a member of the FamilySleeps team 
 * Either parent is a shift worker 
 * Either parent drinks more alcohol per week than safe HSE recommendations (women 11 units, men 17 units)  
